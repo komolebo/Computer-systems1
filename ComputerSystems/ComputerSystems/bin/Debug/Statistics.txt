@@ -1,0 +1,72 @@
+	FIFO mode: 
+Started at:			16.03.2015 13:06:17
+Low scope: 4000
+High scope: 4000
+Performed tasks by system:	167
+Performed operations by system:	668000
+Energy conversion efficiency (η):	0,668
+Real efficiency (η): 	0,668
+
+	FIFO mode: 
+Started at:			16.03.2015 13:07:21
+Low scope: 4000
+High scope: 4000
+Performed tasks by system:	213
+Performed operations by system:	852000
+Energy conversion efficiency (η):	0,568
+Real efficiency (η): 	0,568
+
+	Weak planner mode: 
+Started at:			16.03.2015 13:08:10
+Low scope: 4000
+High scope: 4000
+Performed tasks by system:	186
+Performed operations by system:	744000
+Energy conversion efficiency (η):	0,744
+Real efficiency (η): 	0,93
+
+	Weak planner mode: 
+Started at:			16.03.2015 13:08:39
+Low scope: 4000
+High scope: 4000
+Performed tasks by system:	214
+Performed operations by system:	856000
+Energy conversion efficiency (η):	0,7443478
+Real efficiency (η): 	0,9010527
+
+	FIFO mode: 
+Started at:			30.12.2015 19:02:56
+Low scope: 4000
+High scope: 4000
+Performed tasks by system:	156
+Performed operations by system:	624000
+Energy conversion efficiency (η):	0,624
+Real efficiency (η): 	0,624
+
+	Weak planner mode: 
+Started at:			30.12.2015 19:03:42
+Low scope: 4000
+High scope: 4000
+Performed tasks by system:	183
+Performed operations by system:	732000
+Energy conversion efficiency (η):	0,732
+Real efficiency (η): 	0,915
+
+	Powerful planner mode, case a): 
+Started at:			06.01.2016 1:09:16
+Low scope: 4000
+High scope: 4000
+Performed tasks by system:	421
+Performed operations by system:	1684000
+Energy conversion efficiency (η):	0,6014286
+Real efficiency (η): 	0,6845528
+
+	Powerful planner mode, case a): 
+Started at:			06.01.2016 1:09:16
+Low scope: 4000
+High scope: 4000
+Performed tasks by system:	852
+Performed operations by system:	3408000
+Energy conversion efficiency (η):	0,6085714
+Real efficiency (η): 	0,6926829
+
